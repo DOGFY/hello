@@ -1,0 +1,7 @@
+{
+  "name": "coba",
+  "main": "./lib/coba",
+  "version": "0.1.2",
+  "description": "testing",
+  "keywords": [
+    "coba",

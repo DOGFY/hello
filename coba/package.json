@@ -1,0 +1,18 @@
+{
+  "name": "Daftar 20 Situs judi slot gacor 2022 terbaru mudah menang",
+  "main": "./lib/Daftar 20 Situs judi slot gacor 2022 terbaru mudah menang",
+  "version": "0.0.0",
+  "description": "slot online",
+  "slot gacor": [
+  ],
+  "activationCommands": {
+    "atom-workspace": "coba:toggle"
+  },
+  "repository": "https://github.com/atom/coba",
+  "license": "MIT",
+  "engines": {
+    "atom": ">=1.0.0 <2.0.0"
+  },
+  "dependencies": {
+  }
+}
